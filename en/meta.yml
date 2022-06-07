@@ -1,11 +1,10 @@
-title: default-project-template
+title: Share your project
 hero_image: images/banner.png
-description: default-project-template description
+description: Share your project so that others can view it. 
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Share your project
+ 
